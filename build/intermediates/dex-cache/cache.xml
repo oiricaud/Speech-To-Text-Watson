@@ -33,7 +33,7 @@
         jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="25.0.0"
-        sha1="c3d66e3b384445dbd065506c1fcf6787df3c3429">
+        sha1="727d4bdb6c9a4bb6e76b5ba54d61728d4640731c">
         <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_abb2800f80b823a414e94f950529d30de1bd96cd/classes.dex" />
     </item>
     <item
@@ -89,7 +89,7 @@
         jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="25.0.0"
-        sha1="e24a637400c0de05148fc34a6586a58d2eca9272">
+        sha1="1189217e634ff7aa8e1539a60dadd94f079bbfe8">
         <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d8be76d04d7cec94148d9e3828d421b738a2a922/classes.dex" />
     </item>
     <item
