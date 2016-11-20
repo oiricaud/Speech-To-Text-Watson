@@ -7,28 +7,34 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.restuarants.smart.speechtotextv6.MainActivity">
+    tools:context="com.restuarants.smart.speechtotextwatsonv7.MainActivity">
 
-    <TextView
+    <Button
+        android:text="Start Recording"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        android:id="@+id/textView2" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="New Text"
-        android:id="@+id/txtSpeechInput"
-        android:layout_below="@+id/textView2"
+        android:id="@+id/recordButton"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="80dp" />
+        android:layout_marginTop="64dp" />
 
-    <ImageButton
-        android:layout_width="match_parent"
+    <Button
+        android:text="Play Recorded Audio"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/btnSpeak"
-        android:layout_marginTop="93dp"
-        android:layout_below="@+id/txtSpeechInput"
-        android:layout_centerHorizontal="true" />
+        android:id="@+id/playButton"
+        android:layout_above="@+id/speechToTextButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="108dp" />
+
+    <Button
+        android:text="Call Speech to Text Service"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/speechToTextButton"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="145dp" />
+
+
 </RelativeLayout>
