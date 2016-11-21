@@ -61,8 +61,6 @@ public class MainActivity extends AppCompatActivity {
                 speechToTextButtonPressed();
             }
         });
-
-
     }
 
     private void recordButtonPressed() {
