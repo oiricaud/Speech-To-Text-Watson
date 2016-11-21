@@ -21,39 +21,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/oscarricaud/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
-        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.4_6ba7a4052837d6f5721be72b3b03febf3822ecf8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
         <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_67f6d7e951d556df6e2546a453b1872361488f63/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_66a845ddab49ded748cad42b030db85821e3802c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0e01ce3dbd4c3b665df6b179ade8d8652a47a66d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -81,24 +54,6 @@
         revision="25.0.0"
         sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
         <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3c1459eaffd25500c8cee539da8eab9abc18d90c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_a2fe666198f5ea695c82011a5524849ae62afc6f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5b685305a32b37054264da32f0d6c5714f3d16eb">
-        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_abb2800f80b823a414e94f950529d30de1bd96cd/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -147,6 +102,69 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6881e1324689e228c9cd29434b76e1160201b56d">
+        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d8be76d04d7cec94148d9e3828d421b738a2a922/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/.gradle/caches/modules-2/files-2.1/com.neovisionaries/nv-websocket-client/1.22/eca8714fb3b3d1c912886d0d9507e1d82d2776db/nv-websocket-client-1.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eca8714fb3b3d1c912886d0d9507e1d82d2776db">
+        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/nv-websocket-client-1.22_7e234a103a5b87bcfb609402bb31dc3dac7c0199/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.4_6ba7a4052837d6f5721be72b3b03febf3822ecf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_66a845ddab49ded748cad42b030db85821e3802c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0e01ce3dbd4c3b665df6b179ade8d8652a47a66d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_a2fe666198f5ea695c82011a5524849ae62afc6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f66b7fa5cf4e127d0483121752eb5a2aa51ae58a">
+        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_abb2800f80b823a414e94f950529d30de1bd96cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -171,24 +189,6 @@
         revision="25.0.0"
         sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
         <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_0e202028e734452b25c340d8740da008c09121e9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e0e7ceb14de0a6fbc1112d2a99c0997b3b64228b">
-        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d8be76d04d7cec94148d9e3828d421b738a2a922/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/oscarricaud/.gradle/caches/modules-2/files-2.1/com.neovisionaries/nv-websocket-client/1.22/eca8714fb3b3d1c912886d0d9507e1d82d2776db/nv-websocket-client-1.22.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="eca8714fb3b3d1c912886d0d9507e1d82d2776db">
-        <dex dex="/Users/oscarricaud/SpeechToTextWatsonV7/app/build/intermediates/transforms/dex/debug/folders/1000/10/nv-websocket-client-1.22_7e234a103a5b87bcfb609402bb31dc3dac7c0199/classes.dex" />
     </item>
     <item
         is-multidex="true"
